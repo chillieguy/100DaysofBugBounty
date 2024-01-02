@@ -5,7 +5,7 @@ In this repository, I will share details about my #100DaysofBugBounty Challenge.
 
 ##  Commitment
 
-**Commitment:** *I spend 30 minutes or more a day either learning or practicing what I have learned.*
+**Commitment:** *I will spend 30 minutes or more a day either learning or practicing what I have learned.*
 
 |  Start Date        | End Date          |
 | -------------------| ------------------|
@@ -19,4 +19,7 @@ TBD
 <img src="https://progress-bar.dev/1/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ### Day 1: Jan 01, 2024 - Monday
+- [] 
+
+### Day 2: Jan 02, 2024 - Tuesday
 - [] 
