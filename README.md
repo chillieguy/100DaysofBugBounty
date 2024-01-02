@@ -16,7 +16,7 @@ TBD
 
 ## Progress
 
-<img src="https://progress-bar.dev/19/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/1/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ### Day 1: Jan 01, 2024 - Monday
 - [] 
