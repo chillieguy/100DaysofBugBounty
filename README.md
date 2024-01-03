@@ -23,5 +23,5 @@ TBD
 
 ### Day 2: Jan 02, 2024 - Tuesday
 - [x] [TryHackMe - OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-- Additional Reading
-    - [] [OWASP's TOP 10 vulnerabilities](https://owasp.org/www-project-top-ten/)
+- [x] Additional Reading
+    - [OWASP's TOP 10 vulnerabilities](https://owasp.org/www-project-top-ten/)
