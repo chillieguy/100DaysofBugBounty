@@ -22,4 +22,4 @@ TBD
 - [] 
 
 ### Day 2: Jan 02, 2024 - Tuesday
-- [] 
+- [x] [TryHackMe - OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) 
