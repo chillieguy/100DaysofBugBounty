@@ -20,7 +20,7 @@ TBD
 
 ### Day 1: Jan 01, 2024 - Monday
 - [X] [TryHackMe - Upload Vulnerabilities](https://tryhackme.com/room/uploadvulns)
-- [O] Additional Reading:
+- [ ] Additional Reading:
 
 ### Day 2: Jan 02, 2024 - Tuesday
 - [x] [TryHackMe - OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
@@ -28,6 +28,6 @@ TBD
     - [OWASP's TOP 10 vulnerabilities](https://owasp.org/www-project-top-ten/)
 
 ### Day 3: Jan 03, 2024 - Wednesday
-- [] 
-- [] Additional Reading:
+- [ ] 
+- [ ] Additional Reading:
     - 
