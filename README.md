@@ -28,8 +28,8 @@ TBD
     - [OWASP's TOP 10 vulnerabilities](https://owasp.org/www-project-top-ten/)
 
 ### Day 3: Jan 03, 2024 - Wednesday
-- [ ] [TryHackMe - Hashing - Crypto 101](https://tryhackme.com/room/hashingcrypto101)
-- [ ] Additional Reading:
+- [X] [TryHackMe - Hashing - Crypto 101](https://tryhackme.com/room/hashingcrypto101)
+- [X] Additional Reading:
     - [MD5 collision example](https://www.mscs.dal.ca/~selinger/md5collision/)
     - [Shattered - Broken SHA-1 in practice](https://shattered.io/)
     - [Hashcat - Generic hash types](https://hashcat.net/wiki/doku.php?id=example_hashes)
