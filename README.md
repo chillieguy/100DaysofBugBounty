@@ -16,12 +16,18 @@ TBD
 
 ## Progress
 
-<img src="https://progress-bar.dev/2/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/3/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ### Day 1: Jan 01, 2024 - Monday
-- [] 
+- [X] [TryHackMe - Upload Vulnerabilities](https://tryhackme.com/room/uploadvulns)
+- [O] Additional Reading:
 
 ### Day 2: Jan 02, 2024 - Tuesday
 - [x] [TryHackMe - OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-- [x] Additional Reading
+- [x] Additional Reading:
     - [OWASP's TOP 10 vulnerabilities](https://owasp.org/www-project-top-ten/)
+
+### Day 3: Jan 03, 2024 - Wednesday
+- [] 
+- [] Additional Reading:
+    - 
