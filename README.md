@@ -16,7 +16,7 @@ TBD
 
 ## Progress
 
-<img src="https://progress-bar.dev/3/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/4/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ### Day 1: Jan 01, 2024 - Monday
 - [X] [TryHackMe - Upload Vulnerabilities](https://tryhackme.com/room/uploadvulns)
@@ -34,3 +34,10 @@ TBD
     - [Shattered - Broken SHA-1 in practice](https://shattered.io/)
     - [Hashcat - Generic hash types](https://hashcat.net/wiki/doku.php?id=example_hashes)
     - [PiPy - hashID](https://pypi.org/project/hashID/)
+     
+### Day 4: Jan 04, 2024 - Thursday
+- [X] [TryHackMe - Hashing - What the Shell?](https://tryhackme.com/room/introtoshells)
+- [X] Additional Reading:
+    - [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+    - [pentestmonkey - Reverse Shell Cheat Sheet](https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+    - [SecLists - The Pentesters Companion](https://github.com/danielmiessler/SecLists)     
